@@ -8,7 +8,7 @@
 ### /auth/users/reset_password/ => forgot password
 ### /auth/users/reset_password_confirm/ => reset password
 
-# Contact:
+## Contact:
 ### /contact/ : contact list
 ### /contact/contact-details/{id}/ => contact details
 ### /contact/contact/create/ => create new contact
